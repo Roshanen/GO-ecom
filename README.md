@@ -1,7 +1,7 @@
 ## Learning GO-Lang again 
 
-bring back memory of GO again from this repo
-from https://github.com/sikozonpc/ecom
+Bring back memory of GO again from this repository.
+https://github.com/sikozonpc/ecom
 
 ## E-commerce REST API in Go 
 
